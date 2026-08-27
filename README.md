@@ -1,6 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
-# Aim:<img width="853" height="689" alt="image" src="https://github.com/user-attachments/assets/8d801837-0079-407f-94ca-c630d34f8c22" />
+# Aim:
 
   To Perform Data Visualization using seaborn python library for the given datas.
 
